@@ -40,11 +40,11 @@ The **Holiday API Collector** is a Python project that fetches holiday data for 
    ```
 
    After creating the virtual environment, activate it:
--- on Windows
+- on Windows
    ```
    venv\Scripts\activate
    ```
--- on Linux
+- on Linux
    ```
    source venv/bin/activate
    ```
